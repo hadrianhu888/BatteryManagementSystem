@@ -1,0 +1,15 @@
+-IF:/NEW_BMS_PROJ_2021/NEW_PROJ_MODELS/NEW_PROJ/BatteryManagementSystem/Battery_System_R2020a/work
+-IF:/NEW_BMS_PROJ_2021/NEW_PROJ_MODELS/NEW_PROJ/BatteryManagementSystem/Battery_System_R2020a/work/slprj/sim/_sharedutils
+-ID:/Program\ Files/Matlab/extern/include
+-ID:/Program\ Files/Matlab/simulink/include
+-ID:/Program\ Files/Matlab/rtw/c/src
+-ID:/Program\ Files/Matlab/rtw/c/src/ext_mode/common
+-ID:/Program\ Files/Matlab/rtw/c/ert
+-ID:/Program\ Files/Matlab/toolbox/physmod/simscape/engine/sli/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/simscape/engine/core/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/simscape/compiler/core/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/network_engine/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/common/math/core/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/common/lang/core/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/common/external/library/c/win64
+-ID:/Program\ Files/Matlab/toolbox/physmod/common/foundation/core/c/win64
